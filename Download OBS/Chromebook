@@ -1,0 +1,6 @@
+Today this is how you will install OBS on Chromebook. Your CB must have Linux mode turned on (Settings -> Linux (Beta).
+First, you must have FFMPEG installed. Please open Terminal.
+To install FFMPEG, type sudo apt install ffmpeg
+Next to start installing OBS with this command: sudo apt update (then if asks for Y / N put Y also linux mode must also be able to use min 8GB.
+Finally, install OBS with: sudo apt install obs-studio
+If nothing works, please go to https://obsproject.com/wiki/install-instructions#linux (even though it says linux also possible for cb).
